@@ -12,5 +12,6 @@
     <li><a href="https://cssreference.io/">CSS</a></li>
     <li><a href="http://127.0.0.1:3000/docs/practica_4/pag.index.html">Pagina Pelicula Favorita</a></li>
     <li><a href="http://127.0.0.1:3000/docs/practica-5/index.html">Práctica_5</a></li>
+    <li><a href="http://127.0.0.1:3000/docs/practica-6/index.html">Práctica_6</a></li>
 </body>
 </html>
